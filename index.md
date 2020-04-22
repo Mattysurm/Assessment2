@@ -52,7 +52,7 @@ These next few projects started getting me very excited. Seeing that people have
 
 *https://www.instagram.com/p/B-uWJMbC-t-/*
 
-![Image](dotworker.jpg)
+![Image](dotworker.png)
 
 This project is by far both my favourite and the most useful for me when designing the project. Here you can pretty much see exaclty what I am aiming to build. The project shows off this idea I've been toying with perfectly, a machine that can be used for creating dotwork projects similar to producing a tattoo. The technology used is pretty much the same as what I am trying to achieve (Although mine is much less professional). I just found this project to be everything I wanted to produce and it gave me a very well thought out, clean version of the conceptual idea I had been playing with ove the past few weeks. Surprisingly, this is the only fully developed project I found that was pretty much exactly what I was wanting to produce. In seeing this I have realsied this is a very niche market for the project I am wanting to produce, this has both good and bad qualities to it. On the plus side if the product were to go to market there would be no real competition. Then on the downside there is no telling how big or small the market for such a product is. 
 
@@ -119,7 +119,7 @@ What are the start and endpoints of your path?
 
 The start point of this project is the design ideation and sketching. From here it is a matter of testing and prototyping the idea and coming to a final usable result by the endpoint*
 
-![Image](sketch3.png)
+![Image](sketch3.jpg)
 
 ### Interaction flowchart ###
 *Here you can see the interaction flowchart for the pen tattoo machine. The final piece will require the user to turn the potentiometer to ajust the speed the machine runs at. This will then turn the motor on and ajust it's speed therefore ajusting the speed at which the worm drive is connecting with the cog and cam shaft pushing the pen up and down.*
