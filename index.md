@@ -71,17 +71,17 @@ The final project I have chosen to include is a modern tattoo machine that is mo
 
 ### *Brief resource name/description* ###
 
-*T³: 3D Printing a Rotary Tattoo Machine:
-https://www.sparkfun.com/news/2165
-This source was a fun blog post showing how you could use a 3D printer to develop a very basic tattoo machine. I had come across this page within the first few weeks of researching this concept and was amazed that you could do such a thing, giving me the idea to 3D print elements of my project. While we may not be able to 3D print due to this current situation I still have taken elements from this source that can be used within my own project such as the build itself. The source details how to build the machine itself with each part being shown in the video, a lot of these ideas I have played with and want to use with my final piece to make sure it works in a similar way to these 3D printed machines*
+*T³: 3D Printing a Rotary Tattoo Machine:*
+*https://www.sparkfun.com/news/2165*
+*This source was a fun blog post showing how you could use a 3D printer to develop a very basic tattoo machine. I had come across this page within the first few weeks of researching this concept and was amazed that you could do such a thing, giving me the idea to 3D print elements of my project. While we may not be able to 3D print due to this current situation I still have taken elements from this source that can be used within my own project such as the build itself. The source details how to build the machine itself with each part being shown in the video, a lot of these ideas I have played with and want to use with my final piece to make sure it works in a similar way to these 3D printed machines*
 
-*How to make your own tattoo machine:
-https://www.vice.com/en_au/article/zmgz9x/heres-how-to-make-your-own-tattoo-machine
-This Vice article details the many different ways you could build a DIY tattoo machine talking about the base aspects that need to be build and how you can produce these with vary simple household tools. Funnily enough, most of the machine's built within the piece could all be accomplished with things I have laying around the house. This article to me was a great way of coming up with designs of how this project was going to look, since we don't have access to a lot of the more professional equipment supplied by the university I have turned to going with the more personally built look. The machine is something produced for me and while I do want it to look clean and not as though it will fall apart within a few minutes I do want it to keep that homemade feel to it like some of the machines shown within this piece. It's honestly surprising how informative this was for me detailing each and every aspect that was needed and allowing me to come up with a very simple but effective design draft.*
+*How to make your own tattoo machine:*
+*https://www.vice.com/en_au/article/zmgz9x/heres-how-to-make-your-own-tattoo-machine*
+*This Vice article details the many different ways you could build a DIY tattoo machine talking about the base aspects that need to be build and how you can produce these with vary simple household tools. Funnily enough, most of the machine's built within the piece could all be accomplished with things I have laying around the house. This article to me was a great way of coming up with designs of how this project was going to look, since we don't have access to a lot of the more professional equipment supplied by the university I have turned to going with the more personally built look. The machine is something produced for me and while I do want it to look clean and not as though it will fall apart within a few minutes I do want it to keep that homemade feel to it like some of the machines shown within this piece. It's honestly surprising how informative this was for me detailing each and every aspect that was needed and allowing me to come up with a very simple but effective design draft.*
 
-*How to setup a tatoo machine:
-https://www.youtube.com/watch?v=2WhIYi9d_yw
-This is a basic instructional video on how to setup a tattoo machine. I've icluded this source as it showed how a machine should be setup and how I should be designing my project, by modelling the project as a legitimate machine it makes it as interactive as posible. The video also shows all the elements of a tatoo machine that I would like to try and replicate in my drawing machine, as hard as it may be to create some of these I would like to make it as close as possible to a tattoo machine.
+*How to setup a tatoo machine:*
+*https://www.youtube.com/watch?v=2WhIYi9d_yw*
+*This is a basic instructional video on how to setup a tattoo machine. I've icluded this source as it showed how a machine should be setup and how I should be designing my project, by modelling the project as a legitimate machine it makes it as interactive as posible. The video also shows all the elements of a tatoo machine that I would like to try and replicate in my drawing machine, as hard as it may be to create some of these I would like to make it as close as possible to a tattoo machine.*
 
 
 
@@ -105,7 +105,7 @@ This is a basic instructional video on how to setup a tattoo machine. I've iclud
 * A drawing tool emulating a tattoo machine using pens/pencils instead of needles and ink, to produce stippled work in a much easier way. *
 What problem do you want to solve?
 
-*The problem I aim to solve with this drawing machine is the sheer time it takes to complete a piece of artwork by stippling or using dot work. Stippling is very much like traditional tattoo methods such as Tebori, where the artist will need to dot each piece by hand. Similar to how a tattoo machine made this easier for artists to tattoo, I would like to make a mchine for dotwork artists to not have to produce every dot by hand individually and speed up the process.
+The problem I aim to solve with this drawing machine is the sheer time it takes to complete a piece of artwork by stippling or using dot work. Stippling is very much like traditional tattoo methods such as Tebori, where the artist will need to dot each piece by hand. Similar to how a tattoo machine made this easier for artists to tattoo, I would like to make a mchine for dotwork artists to not have to produce every dot by hand individually and speed up the process.
 
 What relation do you want to form or change? What experience do you want to create?
 
