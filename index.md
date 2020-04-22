@@ -72,11 +72,15 @@ The final project I have chosen to include is a modern tattoo machine that is mo
 ### *Brief resource name/description* ###
 
 *T³: 3D Printing a Rotary Tattoo Machine:*
+
 *https://www.sparkfun.com/news/2165*
+
 *This source was a fun blog post showing how you could use a 3D printer to develop a very basic tattoo machine. I had come across this page within the first few weeks of researching this concept and was amazed that you could do such a thing, giving me the idea to 3D print elements of my project. While we may not be able to 3D print due to this current situation I still have taken elements from this source that can be used within my own project such as the build itself. The source details how to build the machine itself with each part being shown in the video, a lot of these ideas I have played with and want to use with my final piece to make sure it works in a similar way to these 3D printed machines*
 
 *How to make your own tattoo machine:*
+
 *https://www.vice.com/en_au/article/zmgz9x/heres-how-to-make-your-own-tattoo-machine*
+
 *This Vice article details the many different ways you could build a DIY tattoo machine talking about the base aspects that need to be build and how you can produce these with vary simple household tools. Funnily enough, most of the machine's built within the piece could all be accomplished with things I have laying around the house. This article to me was a great way of coming up with designs of how this project was going to look, since we don't have access to a lot of the more professional equipment supplied by the university I have turned to going with the more personally built look. The machine is something produced for me and while I do want it to look clean and not as though it will fall apart within a few minutes I do want it to keep that homemade feel to it like some of the machines shown within this piece. It's honestly surprising how informative this was for me detailing each and every aspect that was needed and allowing me to come up with a very simple but effective design draft.*
 
 *How to setup a tatoo machine:*
@@ -138,7 +142,7 @@ Ensure you include comments about the choices you've made along the way.*
 ![Image](initial.jpg)
 ![Image](progress.jpg)
 ![Image](wormdrive.jpg)
-![Image]([penhouse.jpg)
+![Image](housing.jpg)
 
 
 
