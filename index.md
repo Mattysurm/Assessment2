@@ -84,7 +84,9 @@ The final project I have chosen to include is a modern tattoo machine that is mo
 *This Vice article details the many different ways you could build a DIY tattoo machine talking about the base aspects that need to be build and how you can produce these with vary simple household tools. Funnily enough, most of the machine's built within the piece could all be accomplished with things I have laying around the house. This article to me was a great way of coming up with designs of how this project was going to look, since we don't have access to a lot of the more professional equipment supplied by the university I have turned to going with the more personally built look. The machine is something produced for me and while I do want it to look clean and not as though it will fall apart within a few minutes I do want it to keep that homemade feel to it like some of the machines shown within this piece. It's honestly surprising how informative this was for me detailing each and every aspect that was needed and allowing me to come up with a very simple but effective design draft.*
 
 *How to setup a tatoo machine:*
+
 *https://www.youtube.com/watch?v=2WhIYi9d_yw*
+
 *This is a basic instructional video on how to setup a tattoo machine. I've icluded this source as it showed how a machine should be setup and how I should be designing my project, by modelling the project as a legitimate machine it makes it as interactive as posible. The video also shows all the elements of a tatoo machine that I would like to try and replicate in my drawing machine, as hard as it may be to create some of these I would like to make it as close as possible to a tattoo machine.*
 
 
@@ -141,8 +143,7 @@ Ensure you include comments about the choices you've made along the way.*
 
 ![Image](initial.jpg)
 ![Image](progress.jpg)
-![Image](wormdrive.jpg)
-![Image](housing.jpg)
+
 
 
 
